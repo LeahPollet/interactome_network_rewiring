@@ -1,0 +1,203 @@
+SpomPPI	ScerPPI	reportsInSpom	reportsInScer	ppiType
+(('SPBC1604.21c',), ('SPBC2D10.20',))	(('YKL210W',), ('YDR177W',))	2	0	rewired
+(('SPBC32H8.12c',), ('SPAC630.03',))	(('YFL039C',), ('YJR065C',))	0	4	rewired
+(('SPAC57A10.03',), ('SPBC215.12',))	(('YDR155C',), ('YKL173W', 'YDR385W'))	2	0	rewired
+(('SPBC3E7.14',), ('SPBC20F10.09',))	(('YDR378C',), ('YER146W',))	0	7	rewired
+(('SPCC4B3.18',), ('SPCC4B3.18',))	(('YIL083C',), ('YIL083C',))	Haiyuan	0	rewired
+(('SPAC1687.13c',), ('SPAC17G6.12',))	(('YDL216C',), ('YDL132W',))	2	0	rewired
+(('SPBC725.13c',), ('SPBP4H10.21c',))	(('YJL072C',), ('YDR489W',))	4	0	rewired
+(('SPAC644.12',), ('SPBP22H7.07',))	(('YMR213W',), ('YPL151C',))	4	0	rewired
+(('SPAC16E8.11c',), ('SPCC1682.07',))	(('YDR311W',), ('YLR005W',))	0	9	rewired
+(('SPBC4B4.05',), ('SPBC19C2.14',))	(('YFL017W-A',), ('YLR147C',))	0	3	rewired
+(('SPBC1604.21c',), ('SPBC211.07c',))	(('YKL210W',), ('YEL012W',))	2	0	rewired
+(('SPBC1289.03c',), ('SPBC1773.07c',))	(('YOR185C', 'YLR293C'), ('YIL063C', 'YDR002W'))	2	0	rewired
+(('SPAC23G3.01',), ('SPCC1442.10c',))	(('YOR151C',), ('YIL021W',))	7	0	rewired
+(('SPBC12D12.09',), ('SPBC12D12.09',))	(('YIL139C',), ('YIL139C',))	Haiyuan	0	rewired
+(('SPBC17D1.02',), ('SPBC17D1.02',))	(('YKL191W',), ('YKL191W',))	Haiyuan	0	rewired
+(('SPAC644.12',), ('SPBC31F10.11c',))	(('YMR213W',), ('YLR117C',))	4	0	rewired
+(('SPBC4.04c',), ('SPAC1B2.05',))	(('YBL023C',), ('YLR274W',))	0	14	rewired
+(('SPBC25D12.03c',), ('SPAC1B2.05',))	(('YBR202W',), ('YLR274W',))	0	7	rewired
+(('SPBC16G5.10',), ('SPAC3G9.10c',))	(('YDL111C',), ('YGR195W',))	0	7	rewired
+(('SPAC29A4.08c',), ('SPBC1861.08c',))	(('YLL036C',), ('YPL213W',))	2	0	rewired
+(('SPCC1020.04c',), ('SPCC1442.10c',))	(('YPR187W',), ('YIL021W',))	6	0	rewired
+(('SPBC1198.13c',), ('SPCC1442.10c',))	(('YGR005C',), ('YIL021W',))	2	0	rewired
+(('SPAC1250.01',), ('SPAC23D3.09',))	(('YOR290C', 'YIL126W'), ('YJL081C',))	2	0	rewired
+(('SPAC4A8.12c',), ('SPBC776.02c',))	(('YKL193C',), ('YER133W',))	2	0	rewired
+(('SPBC17D1.03c',), ('SPBC115.01c',))	(('YCR035C',), ('YGR095C',))	0	10	rewired
+(('SPBC211.04c',), ('SPBC4.04c',))	(('YGL201C',), ('YBL023C',))	4	0	rewired
+(('SPAC644.12',), ('SPBC215.12',))	(('YMR213W',), ('YKL173W', 'YDR385W'))	5	0	rewired
+(('SPBC4.04c',), ('SPBC4.04c',))	(('YBL023C',), ('YBL023C',))	0	2	rewired
+(('SPBC14C8.06',), ('SPAC11H11.06',))	(('YBR234C',), ('YDL029W',))	0	13	rewired
+(('SPAC27D7.07c',), ('SPBC215.12',))	(('YGR074W',), ('YKL173W', 'YDR385W'))	2	0	rewired
+(('SPAC1420.03',), ('SPBP19A11.03c',))	(('YDL147W',), ('YHR027C',))	3	0	rewired
+(('SPAC3A12.07',), ('SPAC23G3.01',))	(('YOL005C',), ('YOR151C',))	0	4	rewired
+(('SPBC2D10.20',), ('SPBC1604.21c',))	(('YDR177W',), ('YKL210W',))	0	5	rewired
+(('SPBC14F5.09c',), ('SPBC14F5.09c',))	(('YLR359W',), ('YLR359W',))	2	0	rewired
+(('SPBC32F12.04',), ('SPBC428.20c',))	(('YLR212C',), ('YNL126W',))	3	0	rewired
+(('SPAC926.03',), ('SPAP8A3.08',))	(('YPR188C',), ('YGL106W',))	2	0	rewired
+(('SPAC6F12.15c',), ('SPAC821.08c',))	(('YKL022C',), ('YGL116W',))	3	0	rewired
+(('SPAC1B2.05',), ('SPBC4.04c',))	(('YLR274W',), ('YBL023C',))	3	0	rewired
+(('SPBC14C8.12',), ('SPCC1020.04c',))	(('YOR224C',), ('YPR187W',))	2	0	rewired
+(('SPAC2F7.14c',), ('SPBC17D1.03c',))	(('YHR069C',), ('YCR035C',))	2	0	rewired
+(('SPBC1198.13c',), ('SPAC23G3.01',))	(('YGR005C',), ('YOR151C',))	0	7	rewired
+(('SPAC57A10.03',), ('SPAC57A10.03',))	(('YDR155C',), ('YDR155C',))	0	2	rewired
+(('SPCC364.06',), ('SPCC364.06',))	(('YKR048C',), ('YKR048C',))	Haiyuan	0	rewired
+(('SPAPB2B4.03',), ('SPBC11B10.09',))	(('YGR108W', 'YPR119W'), ('YBR160W',))	2	0	rewired
+(('SPAC12G12.14c',), ('SPAC824.04',))	(('YDR267C', 'YNL317W'), ('YKL018W',))	2	0	rewired
+(('SPAC823.15',), ('SPAP8A3.09c',))	(('YDL188C', 'YDL134C'), ('YAL016W',))	3	0	rewired
+(('SPBC26H8.07c',), ('SPBC16A3.15c',))	(('YFL037W',), ('YML085C',))	0	9	rewired
+(('SPAC821.08c',), ('SPBC20F10.06',))	(('YGL116W',), ('YJL030W',))	8	0	rewired
+(('SPAC26A3.08',), ('SPBC215.12',))	(('YER029C',), ('YKL173W', 'YDR385W'))	2	0	rewired
+(('SPBC115.01c',), ('SPAC22A12.12c',))	(('YGR095C',), ('YOL142W',))	0	8	rewired
+(('SPAC6F12.13c',), ('SPBC36.06c',))	(('YJL167W',), ('YPL069C', 'YJL167W'))	2	0	rewired
+(('SPAC1952.07',), ('SPAC20G4.04c',))	(('YOR368W',), ('YLR288C',))	3	0	rewired
+(('SPAC31G5.19',), ('SPAC31G5.19',))	(('YGR270W',), ('YGR270W',))	Haiyuan	0	rewired
+(('SPAC644.12',), ('SPCC188.11',))	(('YMR213W',), ('YAL032C',))	3	0	rewired
+(('SPBC13G1.13',), ('SPCC1682.07',))	(('YPL122C',), ('YLR005W',))	2	0	rewired
+(('SPAC644.12',), ('SPBC6B1.10',))	(('YMR213W',), ('YDR364C',))	4	0	rewired
+(('SPCC1442.10c',), ('SPAC23G3.01',))	(('YIL021W',), ('YOR151C',))	0	21	rewired
+(('SPBC12C2.08',), ('SPBC12C2.08',))	(('YLL001W',), ('YLL001W',))	Haiyuan	0	rewired
+(('SPAC27F1.09c',), ('SPAC644.12',))	(('YMR288W',), ('YMR213W',))	3	0	rewired
+(('SPCC18B5.06',), ('SPCC584.04',))	(('YNL001W',), ('YDR172W',))	2	0	rewired
+(('SPAC1250.01',), ('SPAC1071.06',))	(('YIL126W',), ('YMR033W',))	0	6	rewired
+(('SPACUNK4.06c',), ('SPCC1020.04c',))	(('YDR404C',), ('YPR187W',))	2	0	rewired
+(('SPBC146.13c',), ('SPBC146.13c',))	(('YKL129C',), ('YMR109W',))	0	3	rewired
+(('SPAC13F5.02c',), ('SPCC5E4.03c',))	(('YMR227C',), ('YDL145C', 'YBR198C'))	2	0	rewired
+(('SPBC557.03c',), ('SPBC1289.03c',))	(('YGL097W',), ('YLR293C',))	0	7	rewired
+(('SPAC823.15', 'SPBC16H5.07c'), ('SPAC227.07c',))	(('YDL188C',), ('YGL190C',))	0	12	rewired
+(('SPCC1442.10c',), ('SPBC14C8.12',))	(('YIL021W',), ('YOR224C',))	0	15	rewired
+(('SPACUNK4.06c',), ('SPAC23G3.01',))	(('YDR404C',), ('YOR151C',))	0	8	rewired
+(('SPAC3A12.07',), ('SPBC14C8.12',))	(('YOL005C',), ('YOR224C',))	0	5	rewired
+(('SPAC4A8.12c',), ('SPCC31H12.05c',))	(('YKL193C',), ('YER133W',))	2	0	rewired
+(('SPAC24B11.06c',), ('SPAC24B11.06c',))	(('YLR113W',), ('YLR113W',))	2	0	rewired
+(('SPBC36.06c',), ('SPBC36.06c',))	(('YPL069C',), ('YPL069C',))	0	4	rewired
+(('SPAC31G5.09c',), ('SPAC31G5.09c',))	(('YBL016W',), ('YBL016W',))	0	4	rewired
+(('SPBC409.05',), ('SPAC4D7.03',))	(('YDR328C',), ('YFL009W',))	0	26	rewired
+(('SPAC3G9.10c',), ('SPAC2F7.14c',))	(('YGR195W',), ('YHR069C',))	0	8	rewired
+(('SPCC1682.02c',), ('SPCC16A11.17',))	(('YEL032W',), ('YPR019W',))	3	0	rewired
+(('SPAC644.12',), ('SPAPJ698.03c',))	(('YMR213W',), ('YML049C',))	3	0	rewired
+(('SPBC409.13',), ('SPBC409.13',))	(('YOL143C',), ('YOL143C',))	Haiyuan	0	rewired
+(('SPBC26H8.10',), ('SPCC757.08',))	(('YOL021C',), ('YDR280W',))	3	0	rewired
+(('SPBC26H8.07c',), ('SPBC16A3.15c',))	(('YFL037W',), ('YML124C',))	0	2	rewired
+(('SPAC31G5.09c',), ('SPAC31G5.09c',))	(('YGR040W',), ('YGR040W',))	0	2	rewired
+(('SPBC215.12',), ('SPBC3E7.14',))	(('YKL173W', 'YDR385W'), ('YPR182W', 'YDR378C'))	2	0	rewired
+(('SPAC821.06',), ('SPAC4F10.11',))	(('YCR002C',), ('YLR314C',))	0	13	rewired
+(('SPBC16G5.10',), ('SPAC2F7.14c',))	(('YDL111C',), ('YHR069C',))	0	4	rewired
+(('SPAC31G5.13',), ('SPCC576.10c',))	(('YFR004W',), ('YDR394W',))	2	0	rewired
+(('SPAC9.03c',), ('SPBC6B1.07',))	(('YER172C',), ('YBR055C',))	2	0	rewired
+(('SPAC806.06c',), ('SPAC806.06c',))	(('YGR010W', 'YLR328W'), ('YGR010W', 'YLR328W'))	2	0	rewired
+(('SPBC3E7.14',), ('SPBC9B6.05c',))	(('YDR378C',), ('YLR438C-A',))	0	8	rewired
+(('SPAC23G3.01',), ('SPAC3A12.07',))	(('YOR151C',), ('YOL005C',))	2	0	rewired
+(('SPBC21B10.05c',), ('SPBC30D10.10c',))	(('YNL006W',), ('YKL203C', 'YJR066W'))	7	0	rewired
+(('SPBC9B6.05c',), ('SPBC9B6.05c',))	(('YLR438C-A',), ('YLR438C-A',))	2	0	rewired
+(('SPBC337.14',), ('SPCC1442.10c',))	(('YJL140W',), ('YIL021W',))	3	0	rewired
+(('SPAC6F12.15c',), ('SPBP23A10.04',))	(('YKL022C',), ('YLR127C',))	2	0	rewired
+(('SPAC227.07c',), ('SPBC16H5.07c',))	(('YGL190C',), ('YDL188C', 'YDL134C'))	2	0	rewired
+(('SPAC821.06',), ('SPAC821.06',))	(('YCR002C',), ('YCR002C',))	0	3	rewired
+(('SPCC18.06c',), ('SPCC31H12.08c',))	(('YNR052C',), ('YAL021C',))	3	0	rewired
+(('SPCC188.03',), ('SPCC306.03c',))	(('YDR325W',), ('YBL097W',))	3	0	rewired
+(('SPAC821.12',), ('SPAC821.12',))	(('YNL161W', 'YJL164C'), ('YNL161W', 'YJL164C'))	3	0	rewired
+(('SPBC215.12',), ('SPBP22H7.07',))	(('YKL173W', 'YDR385W'), ('YPL151C',))	2	0	rewired
+(('SPBC6B1.10',), ('SPBC6B1.10',))	(('YDR364C',), ('YDR364C',))	0	2	rewired
+(('SPBC776.13',), ('SPCC306.03c',))	(('YLR272C',), ('YBL097W',))	2	0	rewired
+(('SPAC1565.08',), ('SPAC1565.08',))	(('YDL126C',), ('YDL126C',))	0	4	rewired
+(('SPAC2C4.03c',), ('SPBC215.12',))	(('YLR275W',), ('YKL173W', 'YDR385W'))	2	0	rewired
+(('SPAC29A4.08c',), ('SPBC215.12',))	(('YLL036C',), ('YKL173W', 'YDR385W'))	3	0	rewired
+(('SPBC4.07c',), ('SPBP19A11.03c',))	(('YDL007W',), ('YHR027C',))	2	0	rewired
+(('SPBC215.12',), ('SPBC6B1.10',))	(('YKL173W', 'YDR385W'), ('YDR364C',))	3	0	rewired
+(('SPCC61.03',), ('SPCC61.03',))	(('YKL151C',), ('YKL151C',))	Haiyuan	0	rewired
+(('SPBC215.12',), ('SPCC188.11',))	(('YKL173W', 'YDR385W'), ('YAL032C',))	2	0	rewired
+(('SPAC4D7.03',), ('SPBC409.05',))	(('YFL009W',), ('YDR328C',))	2	0	rewired
+(('SPBC19C2.14',), ('SPBC215.12',))	(('YLR147C',), ('YKL173W', 'YDR385W'))	2	0	rewired
+(('SPAC17H9.02',), ('SPAC6F12.16c',))	(('YJL050W',), ('YJL050W',))	2	0	rewired
+(('SPBC106.16',), ('SPBC16C6.07c',))	(('YOL038W',), ('YKL145W',))	2	0	rewired
+(('SPAC29A4.05',), ('SPAP8A3.08',))	(('YBR109C',), ('YGL106W',))	0	4	rewired
+(('SPAP8A3.09c',), ('SPCC188.02',))	(('YAL016W',), ('YOR014W',))	5	0	rewired
+(('SPBC1861.08c',), ('SPBC215.12',))	(('YPL213W',), ('YKL173W', 'YDR385W'))	2	0	rewired
+(('SPAC3A12.11c',), ('SPBC1861.08c',))	(('YDL209C',), ('YPL213W',))	3	0	rewired
+(('SPBC2D10.11c',), ('SPBC2D10.11c',))	(('YKR048C',), ('YKR048C',))	2	0	rewired
+(('SPACUNK4.06c',), ('SPBC14C8.12',))	(('YDR404C',), ('YOR224C',))	2	0	rewired
+(('SPAC4F10.11',), ('SPAC821.06',))	(('YLR314C',), ('YCR002C',))	Haiyuan	0	rewired
+(('SPBC776.02c', 'SPCC31H12.05c'), ('SPAC4A8.12c',))	(('YER133W',), ('YKL193C',))	0	15	rewired
+(('SPBC211.04c',), ('SPBC25D12.03c',))	(('YGL201C',), ('YBR202W',))	6	0	rewired
+(('SPBC1773.07c',), ('SPBC1289.03c',))	(('YIL063C',), ('YLR293C',))	0	4	rewired
+(('SPAC15F9.02',), ('SPBC17G9.04c',))	(('YGL100W',), ('YJR042W',))	3	0	rewired
+(('SPAC57A10.05c',), ('SPBC409.05',))	(('YIL046W',), ('YDR328C',))	4	0	rewired
+(('SPAC821.08c',), ('SPAC821.08c',))	(('YGL116W',), ('YGL116W',))	2	0	rewired
+(('SPAC6F12.15c',), ('SPBC20F10.06',))	(('YKL022C',), ('YJL030W',))	3	0	rewired
+(('SPBP4H10.21c',), ('SPBC725.13c',))	(('YDR489W',), ('YJL072C',))	0	15	rewired
+(('SPAC31G5.13',), ('SPBC4C3.07',))	(('YFR004W',), ('YOR261C',))	0	33	rewired
+(('SPBC32H8.12c',), ('SPAC23D3.09',))	(('YFL039C',), ('YJL081C',))	0	8	rewired
+(('SPACUNK4.06c',), ('SPBC337.14',))	(('YDR404C',), ('YJL140W',))	3	0	rewired
+(('SPBC1861.08c',), ('SPBC6B1.10',))	(('YPL213W',), ('YDR364C',))	2	0	rewired
+(('SPBC31F10.09c',), ('SPCC1020.04c',))	(('YPR168W',), ('YPR187W',))	2	0	rewired
+(('SPBC25D12.03c',), ('SPCC1682.02c',))	(('YBR202W',), ('YEL032W',))	5	0	rewired
+(('SPBC16A3.15c',), ('SPBC26H8.07c',))	(('YML124C', 'YML085C'), ('YFL037W',))	2	0	rewired
+(('SPAC227.07c',), ('SPAP8A3.09c',))	(('YGL190C',), ('YAL016W',))	2	0	rewired
+(('SPAC17G6.12',), ('SPBC409.05',))	(('YDL132W',), ('YDR328C',))	5	0	rewired
+(('SPAC13F5.02c',), ('SPBC15D4.14',))	(('YMR227C',), ('YBR198C',))	2	0	rewired
+(('SPAC31G5.13',), ('SPBP19A11.03c',))	(('YFR004W',), ('YHR027C',))	4	0	rewired
+(('SPBC119.13c',), ('SPBC6B1.07',))	(('YOR310C', 'YGR091W'), ('YBR055C',))	3	0	rewired
+(('SPCC5E4.03c',), ('SPCC5E4.03c',))	(('YDL145C',), ('YDL145C',))	0	2	rewired
+(('SPBC1289.03c',), ('SPBC557.03c',))	(('YOR185C', 'YLR293C'), ('YGL097W',))	3	0	rewired
+(('SPBC4.04c',), ('SPCC1682.02c',))	(('YBL023C',), ('YEL032W',))	3	0	rewired
+(('SPAC11H11.06',), ('SPBC32H8.12c',))	(('YDL029W',), ('YFL039C',))	0	4	rewired
+(('SPAC644.12',), ('SPCC550.02c',))	(('YMR213W',), ('YBR065C',))	4	0	rewired
+(('SPAC3A12.07',), ('SPCC1442.10c',))	(('YOL005C',), ('YIL021W',))	7	0	rewired
+(('SPBC215.12',), ('SPBC31F10.11c',))	(('YKL173W', 'YDR385W'), ('YLR117C',))	2	0	rewired
+(('SPBC16H5.07c',), ('SPCC188.02',))	(('YDL188C', 'YDL134C'), ('YOR014W',))	2	0	rewired
+(('SPAC11E3.04c',), ('SPBC1604.21c',))	(('YDR092W',), ('YKL210W',))	2	0	rewired
+(('SPACUNK4.06c',), ('SPCC1442.10c',))	(('YDR404C',), ('YIL021W',))	6	0	rewired
+(('SPBC4.07c',), ('SPBC16C6.07c',))	(('YDL007W',), ('YKL145W',))	0	10	rewired
+(('SPAC1565.08',), ('SPAC343.09',))	(('YDL126C',), ('YBL058W',))	2	0	rewired
+(('SPBC146.13c',), ('SPBC146.13c',))	(('YMR109W',), ('YMR109W',))	0	6	rewired
+(('SPAC9G1.11c',), ('SPAC4F10.11',))	(('YHR107C',), ('YLR314C',))	0	15	rewired
+(('SPBC119.13c',), ('SPBC119.13c',))	(('YOR310C',), ('YOR310C',))	0	2	rewired
+(('SPAC29A4.08c',), ('SPAC29A4.08c',))	(('YLL036C',), ('YLL036C',))	3	0	rewired
+(('SPAP8A3.09c',), ('SPAC227.07c',))	(('YAL016W',), ('YGL190C',))	0	12	rewired
+(('SPBC31F10.09c',), ('SPCC1442.10c',))	(('YPR168W',), ('YIL021W',))	2	0	rewired
+(('SPAC9G1.11c',), ('SPAC9G1.11c',))	(('YHR107C',), ('YHR107C',))	0	7	rewired
+(('SPBC211.04c',), ('SPBC725.13c',))	(('YGL201C',), ('YJL072C',))	2	0	rewired
+(('SPBC115.01c',), ('SPBC26H8.10',))	(('YGR095C',), ('YOL021C',))	3	0	rewired
+(('SPAC17G6.12',), ('SPAC57A10.05c',))	(('YDL132W',), ('YIL046W',))	3	0	rewired
+(('SPAC630.03',), ('SPBC32H8.12c',))	(('YJR065C',), ('YFL039C',))	2	0	rewired
+(('SPAC13F5.02c',), ('SPAC29E6.08',))	(('YMR227C',), ('YER148W',))	2	0	rewired
+(('SPBC1539.08',), ('SPBC1539.08',))	(('YDL137W', 'YOR094W'), ('YDL137W', 'YOR094W'))	Haiyuan	0	rewired
+(('SPCC285.12',), ('SPCC285.12',))	(('YNL147W',), ('YNL147W',))	Haiyuan	0	rewired
+(('SPAC1B2.05',), ('SPBC25D12.03c',))	(('YLR274W',), ('YBR202W',))	3	0	rewired
+(('SPAC2F7.14c',), ('SPBC26H8.10',))	(('YHR069C',), ('YOL021C',))	3	0	rewired
+(('SPAC10F6.09c',), ('SPBC29A10.04',))	(('YJL074C',), ('YFL008W',))	4	0	rewired
+(('SPBC14C8.12',), ('SPCC1442.10c',))	(('YOR224C',), ('YIL021W',))	5	0	rewired
+(('SPBC1604.21c',), ('SPCC1259.15c',))	(('YKL210W',), ('YOR339C',))	3	0	rewired
+(('SPAC630.03',), ('SPBC14C8.06',))	(('YJR065C',), ('YBR234C',))	2	0	rewired
+(('SPAC23G3.01',), ('SPCC1020.04c',))	(('YOR151C',), ('YPR187W',))	2	0	rewired
+(('SPBC409.05',), ('SPAC57A10.05c',))	(('YDR328C',), ('YIL046W',))	0	18	rewired
+(('SPAC29E6.08',), ('SPCC5E4.03c',))	(('YER148W',), ('YDL145C', 'YBR198C'))	2	0	rewired
+(('SPAC926.04c',), ('SPBC1711.08',))	(('YPL240C', 'YMR186W'), ('YDR214W',))	2	0	rewired
+(('SPAP8A3.08',), ('SPAP8A3.08',))	(('YGL106W',), ('YGL106W',))	0	2	rewired
+(('SPAC29A4.08c',), ('SPAC3A12.11c',))	(('YLL036C',), ('YDL209C',))	2	0	rewired
+(('SPBC12C2.06',), ('SPBC12C2.06',))	(('YOR046C',), ('YOR046C',))	Haiyuan	0	rewired
+(('SPAC3A12.07',), ('SPACUNK4.06c',))	(('YOL005C',), ('YDR404C',))	2	0	rewired
+(('SPCC1682.07',), ('SPBC13G1.13',))	(('YLR005W',), ('YPL122C',))	0	2	rewired
+(('SPAC31G5.13',), ('SPBC119.01',))	(('YFR004W',), ('YER021W',))	2	0	rewired
+(('SPCC1442.10c',), ('SPAC3A12.07',))	(('YIL021W',), ('YOL005C',))	0	17	rewired
+(('SPBP16F5.04',), ('SPBP16F5.04',))	(('YMR022W',), ('YMR022W',))	0	3	rewired
+(('SPAC823.15', 'SPBC16H5.07c'), ('SPAC227.07c',))	(('YDL134C',), ('YGL190C',))	0	16	rewired
+(('SPBC4.04c',), ('SPBC25D12.03c',))	(('YBL023C',), ('YBR202W',))	0	8	rewired
+(('SPBC3E7.14',), ('SPAC2C4.03c',))	(('YDR378C',), ('YLR275W',))	0	2	rewired
+(('SPAC27E2.05',), ('SPBC336.04',))	(('YJR006W',), ('YDL102W',))	3	0	rewired
+(('SPAC17G6.12',), ('SPAC4D7.03',))	(('YDL132W',), ('YFL009W',))	3	0	rewired
+(('SPAC57A10.03',), ('SPCC188.11',))	(('YDR155C',), ('YAL032C',))	Haiyuan	0	rewired
+(('SPBC25D12.03c',), ('SPBC4.04c',))	(('YBR202W',), ('YBL023C',))	5	0	rewired
+(('SPAC3A12.11c',), ('SPBC215.12',))	(('YDL209C',), ('YKL173W', 'YDR385W'))	3	0	rewired
+(('SPBC146.03c',), ('SPCC306.03c',))	(('YLR086W',), ('YBL097W',))	5	0	rewired
+(('SPAC18B11.07c',), ('SPAC18B11.07c',))	(('YGL058W',), ('YGL058W',))	0	2	rewired
+(('SPAC23G3.01',), ('SPACUNK4.06c',))	(('YOR151C',), ('YDR404C',))	2	0	rewired
+(('SPBC215.12',), ('SPBC4B4.05',))	(('YKL173W', 'YDR385W'), ('YFL017W-A',))	2	0	rewired
+(('SPAC22A12.12c',), ('SPBC26H8.10',))	(('YOL142W',), ('YOL021C',))	3	0	rewired
+(('SPAC29E6.08',), ('SPAC29E6.08',))	(('YER148W',), ('YER148W',))	0	4	rewired
+(('SPBC557.03c',), ('SPBC1289.03c',))	(('YGL097W',), ('YOR185C',))	0	2	rewired
+(('SPBC215.12',), ('SPCC550.02c',))	(('YKL173W', 'YDR385W'), ('YBR065C',))	2	0	rewired
+(('SPAC29E6.08',), ('SPBC15D4.14',))	(('YER148W',), ('YBR198C',))	2	0	rewired
+(('SPAC4H3.08',), ('SPAC4H3.08',))	(('YKR009C',), ('YKR009C',))	Haiyuan	0	rewired
+(('SPBC211.04c',), ('SPCC16A11.17',))	(('YGL201C',), ('YPR019W',))	6	0	rewired
