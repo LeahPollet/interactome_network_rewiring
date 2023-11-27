@@ -1,0 +1,556 @@
+ORF_name, PDB_id_used: error_message (number_of_error_messages_1/total_num_res_in_prot) 
+YJL164C, 4X6RA: No consurfDB file (311/311 residues). 
+YPL017C, 1V59B: Score below ConSurf confidence cutoff (4/337 residues). 
+YPL017C, 1V59A: Score below ConSurf confidence cutoff (4/337 residues). 
+YER136W, 1UKVG: No consurfDB file (432/432 residues). 
+YER136W, 3CPHG: No consurfDB file (431/431 residues). 
+YKL073W, 6ASYA: Score below ConSurf confidence cutoff (1/334 residues). 
+YJL034W, 3QMLA: Consurf file format error (5/257 residues). 
+YOL031C, 3QMLC: Score below ConSurf confidence cutoff (1/195 residues). 
+YGL091C, 6G2GB: Score below ConSurf confidence cutoff (7/244 residues). 
+YIL003W, 6G2GA: Score below ConSurf confidence cutoff (3/249 residues). 
+YFR015C, 6U77C: Score below ConSurf confidence cutoff (3/622 residues). Consurf file format error (1/622 residues). 
+YLR258W, 6U77B: Score below ConSurf confidence cutoff (3/619 residues). 
+YGL091C, 6G2GA: Score below ConSurf confidence cutoff (1/231 residues). 
+YBR167C, 6W6VG: No consurfDB file (108/108 residues). 
+YNL221C, 6W6VB: No consurfDB file (640/640 residues). 
+YJL148W, 6RWEN: No consurfDB file (100/100 residues). 
+YNL248C, 6RWEM: Consurf file format error (165/260 residues). 
+YJL130C, 5DOUB: No consurfDB file (802/802 residues). 
+YJR109C, 5DOUA: No consurfDB file (763/763 residues). 
+YER012W, 4LTCX: No consurfDB file (194/194 residues). 
+YJL008C, 6KS6Q: No consurfDB file (510/510 residues). 
+YJL014W, 6KS6G: Score below ConSurf confidence cutoff (160/515 residues). 
+YPR181C, 5VNLA: Score below ConSurf confidence cutoff (1/678 residues). 
+YFL039C, 6UPWE: No consurfDB file (358/358 residues). 
+YJR065C, 6UPWD: No consurfDB file (233/233 residues). 
+YBL023C, 4R7YB: Score below ConSurf confidence cutoff (1/561 residues). 
+YGL048C, 2CE7C: No consurfDB file (231/231 residues). 
+YOR117W, 2CE7B: No consurfDB file (235/235 residues). 
+YDL134C, 3DW8C: No consurfDB file (285/285 residues). 
+YMR312W, 4A8JF: No consurfDB file (204/204 residues). 
+YPL101W, 4A8JD: Score below ConSurf confidence cutoff (1/265 residues). 
+YOR061W, 6O6QB: Score below ConSurf confidence cutoff (12/313 residues). 
+YOR061W, 6O6QA: Score below ConSurf confidence cutoff (10/314 residues). 
+YGR095C, 5JEAD: Score below ConSurf confidence cutoff (4/202 residues). 
+YOL142W, 5JEAG: Score below ConSurf confidence cutoff (1/134 residues). 
+YPR181C, 1M2VA: No consurfDB file (696/696 residues). 
+YBR126C, 5HUTB: Consurf file format error (2/457 residues). 
+YBR126C, 5HUTA: No consurfDB file (462/462 residues). 
+YNL259C, 5VDFB: No consurfDB file (70/70 residues). 
+YNL259C, 5VDFA: No consurfDB file (70/70 residues). 
+YBL002W, 4WNNB: No consurfDB file (97/97 residues). 
+YBR010W, 6O22E: No consurfDB file (75/75 residues). 
+YMR120C, 1THZB: No consurfDB file (394/394 residues). 
+YMR120C, 1THZA: No consurfDB file (394/394 residues). 
+YGL238W, 1WA5C: Score below ConSurf confidence cutoff (4/900 residues). 
+YOR157C, 4R17V: No consurfDB file (226/226 residues). 
+YMR139W, 3SD0B: No consurfDB file (239/239 residues). 
+YMR139W, 3SD0A: No consurfDB file (239/239 residues). 
+YNL142W, 2NUUB: No consurfDB file (284/284 residues). 
+YPR120C, 3QHWB: Consurf file format error (224/230 residues). 
+YPL259C, 6QH5N: No consurfDB file (137/137 residues). 
+YPL203W, 4X6RA: No consurfDB file (300/300 residues). 
+YGR163W, 6S6DC: Consurf file format error (9/246 residues). 
+YGL011C, 4Q1SU: No consurfDB file (168/168 residues). 
+YOR362C, 4Q1ST: No consurfDB file (161/161 residues). 
+YJR007W, 6YALA: Score below ConSurf confidence cutoff (1/258 residues). 
+YJL138C, 2VSXB: No consurfDB file (364/364 residues). 
+YJL138C, 2VSXA: No consurfDB file (364/364 residues). 
+YGL202W, 6HNUB: Consurf file format error (1/468 residues). Score below ConSurf confidence cutoff (2/468 residues). 
+YGL202W, 6HNUA: Score below ConSurf confidence cutoff (2/466 residues). 
+YOR341W, 6RQLA: No consurfDB file (1531/1531 residues). 
+YPR010C, 6RQLB: No consurfDB file (1152/1152 residues). 
+YBR039W, 3ZIAQ: No consurfDB file (257/257 residues). 
+YHR171W, 4GSLB: Score below ConSurf confidence cutoff (1/532 residues). 
+YER012W, 4LTCJ: No consurfDB file (194/194 residues). 
+YKL194C, 4EO4C: No consurfDB file (361/361 residues). 
+YKL194C, 4EO4A: No consurfDB file (360/360 residues). 
+YDR054C, 6NYAC: Consurf file format error (4/168 residues). 
+YKL210W, 6NYAA: No consurfDB file (977/977 residues). 
+YER179W, 6R3PB: Score below ConSurf confidence cutoff (1/209 residues). 
+YPL122C, 7O4J2: Score below ConSurf confidence cutoff (2/438 residues). 
+YHR024C, 1HR6A: Score below ConSurf confidence cutoff (8/455 residues). 
+YLR163C, 1HR6B: Consurf file format error (396/424 residues). Score below ConSurf confidence cutoff (2/424 residues). 
+YFL009W, 3V7DB: Consurf file format error (426/426 residues). 
+YKL148C, 6MYUA: No consurfDB file (368/368 residues). 
+YOR340C, 6RUIG: No consurfDB file (189/189 residues). 
+YBR135W, 1QB3B: Consurf file format error (102/102 residues). 
+YBR202W, 4R7YB: Score below ConSurf confidence cutoff (1/550 residues). 
+YPR019W, 4R7YA: Score below ConSurf confidence cutoff (1/579 residues). 
+YGR059W, 4KVAB: No consurfDB file (237/237 residues). 
+YLR314C, 4KVAA: Consurf file format error (4/235 residues). 
+YBR009C, 6L9ZP: No consurfDB file (94/94 residues). 
+YKL145W, 2CE7B: No consurfDB file (250/250 residues). 
+YNL113W, 6RUIK: No consurfDB file (102/102 residues). 
+YPR010C, 6RUIB: No consurfDB file (1152/1152 residues). 
+YKL139W, 7JV7A: Score below ConSurf confidence cutoff (2/296 residues). 
+YPL204W, 6RCHB: No consurfDB file (293/293 residues). 
+YPL204W, 6RCHA: No consurfDB file (293/293 residues). 
+YBR009C, 1EQZH: Consurf file format error (12/95 residues). 
+YNL031C, 1EQZG: Consurf file format error (22/117 residues). 
+YHR216W, 4Z87B: No consurfDB file (388/388 residues). 
+YDR212W, 6KS6A: No consurfDB file (544/544 residues). 
+YNL030W, 1EQZH: Consurf file format error (12/95 residues). 
+YLR432W, 4Z87B: No consurfDB file (388/388 residues). 
+YLR293C, 1K5DA: No consurfDB file (203/203 residues). 
+YMR223W, 4FIPE: Score below ConSurf confidence cutoff (52/412 residues). Consurf file format error (17/412 residues). 
+YMR223W, 4FIPA: No consurfDB file (410/410 residues). 
+YOL012C, 2RVQC: Score below ConSurf confidence cutoff (1/116 residues). 
+YJL026W, 1JK0A: Score below ConSurf confidence cutoff (3/235 residues). 
+YNL154C, 6RCHB: No consurfDB file (286/286 residues). 
+YNL154C, 6RCHA: No consurfDB file (286/286 residues). 
+YLR438C-A, 4M78C: No consurfDB file (77/77 residues). 
+YDL102W, 3A2FA: Score below ConSurf confidence cutoff (2/605 residues). 
+YFR053C, 3O4WB: No consurfDB file (479/479 residues). 
+YGL253W, 3O4WA: No consurfDB file (478/478 residues). 
+YPR056W, 7O4J4: Score below ConSurf confidence cutoff (1/251 residues). 
+YCR035C, 4IFDC: Score below ConSurf confidence cutoff (1/303 residues). 
+YHR107C, 6UPRA: No consurfDB file (246/246 residues). 
+YML065W, 5ZR1A: No consurfDB file (374/374 residues). 
+YPR135W, 4C8SB: Consurf file format error (10/242 residues). 
+YPR135W, 4C8SA: No consurfDB file (237/237 residues). 
+YDL182W, 3IVTB: No consurfDB file (392/392 residues). 
+YDL182W, 3IVTA: No consurfDB file (388/388 residues). 
+YDL207W, 3RRMB: No consurfDB file (289/289 residues). 
+YOR046C, 3RRMA: No consurfDB file (374/374 residues). 
+YJR076C, 6UPRA: No consurfDB file (257/257 residues). 
+YPR062W, 1P6OB: Consurf file format error (148/148 residues). 
+YPR062W, 1P6OA: Score below ConSurf confidence cutoff (2/148 residues). 
+YNL307C, 3SD0B: No consurfDB file (216/216 residues). 
+YNL307C, 3SD0A: No consurfDB file (216/216 residues). 
+YBL016W, 2FA2B: No consurfDB file (328/328 residues). 
+YBL016W, 2FA2A: No consurfDB file (329/329 residues). 
+YOL038W, 4R17Q: No consurfDB file (203/203 residues). 
+YGL019W, 4DGLB: Consurf file format error (8/185 residues). 
+YIL035C, 4DGLC: Score below ConSurf confidence cutoff (2/286 residues). 
+YOR232W, 1DKGA: Consurf file format error (1/145 residues). 
+YBL064C, 5B6MB: No consurfDB file (207/207 residues). 
+YBL064C, 5B6MA: Score below ConSurf confidence cutoff (1/207 residues). 
+YDL007W, 2CE7C: No consurfDB file (231/231 residues). 
+YGL048C, 2CE7B: No consurfDB file (234/234 residues). 
+YFL038C, 1UKVY: Score below ConSurf confidence cutoff (1/193 residues). 
+YDL137W, 1HURB: Score below ConSurf confidence cutoff (1/176 residues). 
+YFR053C, 3O4WA: No consurfDB file (479/479 residues). 
+YMR314W, 4R17S: No consurfDB file (227/227 residues). 
+YIL003W, 6G2GB: Score below ConSurf confidence cutoff (7/248 residues). 
+YPR074C, 1GPUB: Score below ConSurf confidence cutoff (6/675 residues). 
+YPR074C, 1GPUA: Score below ConSurf confidence cutoff (6/675 residues). 
+YDL126C, 7LN0E: No consurfDB file (721/721 residues). 
+YDL126C, 7LN0D: No consurfDB file (728/728 residues). 
+YAR003W, 6CHGD: Score below ConSurf confidence cutoff (1/378 residues). 
+YBR175W, 6CHGA: Score below ConSurf confidence cutoff (21/264 residues). 
+YOR039W, 4DGLB: Consurf file format error (4/183 residues). 
+YOR061W, 4DGLC: Score below ConSurf confidence cutoff (12/319 residues). 
+YIL142W, 6KS6B: No consurfDB file (516/516 residues). 
+YOR185C, 3W3ZB: Consurf file format error (156/166 residues). 
+YLR147C, 6PPVD: No consurfDB file (71/71 residues). 
+YER146W, 6ASOE: No consurfDB file (55/55 residues). 
+YNL147W, 6ASOG: No consurfDB file (50/50 residues). 
+YBL099W, 3ZIAM: Score below ConSurf confidence cutoff (2/484 residues). 
+YBR154C, 7O4JE: No consurfDB file (214/214 residues). 
+YOR151C, 7O4JB: No consurfDB file (678/678 residues). 
+YOL005C, 7O4JK: No consurfDB file (115/115 residues). 
+YOR224C, 7O4JH: Consurf file format error (3/79 residues). 
+YLR293C, 4OL0A: No consurfDB file (168/168 residues). 
+YLR146C, 2O06B: No consurfDB file (255/255 residues). 
+YPR069C, 2O06A: No consurfDB file (263/263 residues). 
+YHR187W, 4A8JE: No consurfDB file (199/199 residues). 
+YDL143W, 6KS6D: No consurfDB file (523/523 residues). 
+YHR129C, 7R8VE: No consurfDB file (350/350 residues). 
+YHR129C, 7R8VD: Consurf file format error (11/350 residues). 
+YMR296C, 7K0ME: No consurfDB file (399/399 residues). 
+YBL045C, 6T0BL: No consurfDB file (234/234 residues). 
+YNL052W, 6T0Br: Score below ConSurf confidence cutoff (1/120 residues). 
+YGL011C, 4R17U: No consurfDB file (167/167 residues). 
+YLR397C, 5FTJF: Consurf file format error (54/387 residues). 
+YLR397C, 5FTJE: Consurf file format error (54/387 residues). 
+YBL099W, 6RDPV: No consurfDB file (468/468 residues). 
+YDR298C, 6RDPP: No consurfDB file (65/65 residues). 
+YDL100C, 3H84B: No consurfDB file (282/282 residues). 
+YDL100C, 3H84A: No consurfDB file (279/279 residues). 
+YBR221C, 3DVAD: No consurfDB file (320/320 residues). 
+YKL145W, 2CE7C: No consurfDB file (232/232 residues). 
+YBR221C, 3EXED: Score below ConSurf confidence cutoff (1/326 residues). 
+YPL119C, 6O5FB: Score below ConSurf confidence cutoff (1/406 residues). 
+YPL119C, 6O5FA: No consurfDB file (406/406 residues). 
+YOR116C, 7O4JA: No consurfDB file (706/706 residues). 
+YGL106W, 1N2DB: No consurfDB file (135/135 residues). 
+YGL106W, 1N2DA: No consurfDB file (136/136 residues). 
+YDL145C, 3MKQE: No consurfDB file (689/689 residues). 
+YDL145C, 3MKQC: No consurfDB file (683/683 residues). 
+YGL130W, 3KYHD: Score below ConSurf confidence cutoff (1/354 residues). 
+YPL228W, 3KYHB: Score below ConSurf confidence cutoff (1/176 residues). 
+YCR002C, 6UPRA: No consurfDB file (261/261 residues). 
+YOR210W, 6RUIJ: No consurfDB file (69/69 residues). 
+YPR110C, 6RUIC: No consurfDB file (221/221 residues). 
+YDR321W, 2GVNE: No consurfDB file (297/297 residues). 
+YKL021C, 6UOZB: No consurfDB file (126/126 residues). 
+YOR272W, 6UOZA: No consurfDB file (177/177 residues). 
+YOR290C, 7C4JH: Score below ConSurf confidence cutoff (7/193 residues). 
+YPR034W, 7C4JK: No consurfDB file (290/290 residues). 
+YDL084W, 2ZU6C: Score below ConSurf confidence cutoff (1/255 residues). 
+YBR109C, 4BYFD: No consurfDB file (145/145 residues). 
+YDR224C, 4WNNB: No consurfDB file (97/97 residues). 
+YGL011C, 6HWEU: No consurfDB file (167/167 residues). 
+YML092C, 6HWEO: Score below ConSurf confidence cutoff (2/248 residues). 
+YNL006W, 6ZWOD: Score below ConSurf confidence cutoff (6/298 residues). 
+YIL160C, 1AFWB: Score below ConSurf confidence cutoff (7/353 residues). 
+YIL160C, 1AFWA: Score below ConSurf confidence cutoff (7/350 residues). 
+YMR033W, 7C4JL: No consurfDB file (243/243 residues). 
+YDR267C, 6TBLE: No consurfDB file (300/300 residues). 
+YHR122W, 6TBLC: No consurfDB file (125/125 residues). 
+YDL160C, 6O5FB: Score below ConSurf confidence cutoff (1/319 residues). 
+YKR024C, 6O5FA: No consurfDB file (347/347 residues). 
+YNL031C, 5GT0E: Consurf file format error (3/99 residues). 
+YCR020C-A, 6YGBC: Consurf file format error (7/75 residues). Score below ConSurf confidence cutoff (2/75 residues). 
+YPR051W, 6YGBA: No consurfDB file (154/154 residues). 
+YBR010W, 1EQZG: Consurf file format error (22/117 residues). 
+YNL031C, 1EQZC: Consurf file format error (9/106 residues). 
+YER148W, 1NH2A: No consurfDB file (180/180 residues). 
+YLR044C, 2VK8B: No consurfDB file (557/557 residues). 
+YOR210W, 1TWFJ: Score below ConSurf confidence cutoff (1/65 residues). 
+YDR225W, 1EQZE: Consurf file format error (15/119 residues). 
+YEL056W, 4XYIA: No consurfDB file (320/320 residues). 
+YHR030C, 4NIFB: Consurf file format error (336/336 residues). 
+YOR207C, 7D58B: No consurfDB file (680/680 residues). 
+YOR210W, 7D58J: No consurfDB file (67/67 residues). 
+YHR143W-A, 3S14L: No consurfDB file (46/46 residues). 
+YOR207C, 3S14B: No consurfDB file (663/663 residues). 
+YER136W, 3CPJG: Score below ConSurf confidence cutoff (3/429 residues). 
+YOR261C, 5U4PA: Score below ConSurf confidence cutoff (1/176 residues). 
+YML092C, 4R17O: No consurfDB file (247/247 residues). 
+YOR204W, 6O5FA: No consurfDB file (403/403 residues). 
+YLR180W, 4NDND: No consurfDB file (380/380 residues). 
+YLR180W, 4NDNB: No consurfDB file (380/380 residues). 
+YBL003C, 5F99G: No consurfDB file (113/113 residues). 
+YOL012C, 5F99C: No consurfDB file (105/105 residues). 
+YOR207C, 6RUIB: No consurfDB file (637/637 residues). 
+YBR234C, 1K8KC: Score below ConSurf confidence cutoff (2/323 residues). 
+YMR301C, 4MRSB: Score below ConSurf confidence cutoff (1/567 residues). 
+YMR301C, 4MRSA: Score below ConSurf confidence cutoff (2/567 residues). 
+YGR244C, 2FP4B: Consurf file format error (372/386 residues). 
+YDL160C, 2VSXB: No consurfDB file (349/349 residues). 
+YKR059W, 2VSXA: No consurfDB file (364/364 residues). 
+YLR085C, 6UPWD: No consurfDB file (291/291 residues). 
+YLR245C, 1R5TC: Score below ConSurf confidence cutoff (2/127 residues). 
+YLR245C, 1R5TA: Score below ConSurf confidence cutoff (1/128 residues). 
+YML010W, 7NKXZ: No consurfDB file (95/95 residues). 
+YOL005C, 7NKXK: No consurfDB file (114/114 residues). 
+YBL080C, 4N0IB: No consurfDB file (88/88 residues). 
+YMR293C, 4N0IA: No consurfDB file (411/411 residues). 
+YFL039C, 6UPWD: No consurfDB file (358/358 residues). 
+YJR068W, 1SXJD: Score below ConSurf confidence cutoff (2/326 residues). 
+YBR202W, 4R7YA: Score below ConSurf confidence cutoff (1/550 residues). 
+YLR293C, 1I2MA: No consurfDB file (162/162 residues). 
+YER070W, 2WGHB: Consurf file format error (13/652 residues). 
+YNL064C, 6PSIC: Score below ConSurf confidence cutoff (1/213 residues). 
+YNL064C, 6PSIA: No consurfDB file (213/213 residues). 
+YOR204W, 6O5FB: Score below ConSurf confidence cutoff (2/403 residues). 
+YMR300C, 6CZFD: No consurfDB file (476/476 residues). 
+YOR117W, 2CE7C: No consurfDB file (230/230 residues). 
+YOR259C, 2CE7B: No consurfDB file (234/234 residues). 
+YMR314W, 4Q1SS: No consurfDB file (229/229 residues). 
+YBL039C, 7DPWD: No consurfDB file (551/551 residues). 
+YJR103W, 7DPWC: No consurfDB file (550/550 residues). 
+YGR195W, 4IFDB: Score below ConSurf confidence cutoff (3/238 residues). 
+YNL231C, 4J7PB: Score below ConSurf confidence cutoff (1/303 residues). 
+YNL231C, 4J7PA: Score below ConSurf confidence cutoff (3/305 residues). 
+YFL017C, 1I1DD: Consurf file format error (1/145 residues). 
+YFL017C, 1I1DA: Score below ConSurf confidence cutoff (1/144 residues). 
+YBR001C, 5N6NC: Score below ConSurf confidence cutoff (1/491 residues). 
+YIL021W, 7NKXC: No consurfDB file (263/263 residues). 
+YOR310C, 4BY9I: No consurfDB file (193/193 residues). 
+YER081W, 2P9CB: Score below ConSurf confidence cutoff (2/397 residues). 
+YER081W, 2P9CA: Score below ConSurf confidence cutoff (1/397 residues). 
+YCR005C, 4CTSA: No consurfDB file (428/428 residues). 
+YNL030W, 6O22F: No consurfDB file (82/82 residues). 
+YDR194C, 2VSXA: No consurfDB file (231/231 residues). 
+YAL026C, 6PSYA: Score below ConSurf confidence cutoff (5/962 residues). 
+YGL187C, 6T0Bq: No consurfDB file (121/121 residues). 
+YGL191W, 6T0Bx: No consurfDB file (113/113 residues). 
+YGL115W, 2QLVC: Score below ConSurf confidence cutoff (2/310 residues). 
+YGL208W, 2QLVB: Consurf file format error (90/90 residues). 
+YOR341W, 6RWEA: No consurfDB file (1227/1227 residues). 
+YBR222C, 3CW9B: Score below ConSurf confidence cutoff (13/450 residues). 
+YBR222C, 3CW9A: Score below ConSurf confidence cutoff (13/450 residues). 
+YOR370C, 1UKVG: No consurfDB file (346/346 residues). 
+YMR116C, 7A1GO: No consurfDB file (164/164 residues). 
+YNL178W, 7A1GA: No consurfDB file (222/222 residues). 
+YJL111W, 6KS6h: No consurfDB file (514/514 residues). 
+YFR028C, 6G86B: No consurfDB file (358/358 residues). 
+YFR028C, 6G86A: No consurfDB file (355/355 residues). 
+YMR224C, 4FCXA: No consurfDB file (349/349 residues). 
+YEL027W, 6M0RL: No consurfDB file (159/159 residues). 
+YBR127C, 6WLZF: Score below ConSurf confidence cutoff (2/457 residues). 
+YNL037C, 3BLXE: No consurfDB file (224/224 residues). 
+YOR136W, 3BLXH: No consurfDB file (329/329 residues). 
+YDR502C, 4NDND: No consurfDB file (379/379 residues). 
+YDR062W, 7K0MF: No consurfDB file (478/478 residues). 
+YDR328C, 6WNXB: No consurfDB file (118/118 residues). 
+YIL046W, 6WNXA: No consurfDB file (335/335 residues). 
+YJL148W, 4C2MN: No consurfDB file (109/109 residues). 
+YFR015C, 6U77B: Score below ConSurf confidence cutoff (3/621 residues). 
+YBR011C, 1HUJB: Score below ConSurf confidence cutoff (1/281 residues). 
+YMR267W, 1HUJA: Score below ConSurf confidence cutoff (1/262 residues). 
+YGL115W, 2OOXE: No consurfDB file (304/304 residues). 
+YHR037W, 4OE6B: Score below ConSurf confidence cutoff (3/404 residues). 
+YHR037W, 4OE6A: Score below ConSurf confidence cutoff (3/403 residues). 
+YBL041W, 4R17Z: No consurfDB file (220/220 residues). 
+YPR103W, 4R17Y: Score below ConSurf confidence cutoff (2/211 residues). 
+YPR080W, 4C0SA: Score below ConSurf confidence cutoff (1/447 residues). 
+YLL034C, 5FTJF: Consurf file format error (60/533 residues). 
+YLL034C, 5FTJE: Consurf file format error (60/533 residues). 
+YPL135W, 7CNVB: No consurfDB file (125/125 residues). 
+YPL135W, 7CNVA: No consurfDB file (125/125 residues). 
+YBL003C, 1EQZE: Consurf file format error (15/119 residues). 
+YDR225W, 1EQZA: Consurf file format error (15/119 residues). 
+YDL029W, 2P9IB: No consurfDB file (199/199 residues). 
+YIL062C, 2P9IG: No consurfDB file (134/134 residues). 
+YEL053C, 6YGBB: No consurfDB file (658/658 residues). 
+YER052C, 3C1MD: No consurfDB file (440/440 residues). 
+YER052C, 3C1MC: Score below ConSurf confidence cutoff (3/440 residues). 
+YOR210W, 7O4JJ: Score below ConSurf confidence cutoff (1/69 residues). Consurf file format error (4/69 residues). 
+YLR259C, 1SVTN: No consurfDB file (274/274 residues). 
+YLR259C, 1SVTM: No consurfDB file (274/274 residues). 
+YGL106W, 4ZLKB: Consurf file format error (109/121 residues). 
+YLR258W, 6U77C: Score below ConSurf confidence cutoff (3/619 residues). 
+YGR040W, 2FA2B: No consurfDB file (313/313 residues). 
+YGR040W, 2FA2A: No consurfDB file (314/314 residues). 
+YMR033W, 4I6MB: No consurfDB file (243/243 residues). 
+YPR034W, 4I6MA: No consurfDB file (291/291 residues). 
+YHR083W, 7BTXB: Score below ConSurf confidence cutoff (2/183 residues). 
+YNL026W, 7BTXA: Score below ConSurf confidence cutoff (8/302 residues). 
+YDL144C, 3I83A: Score below ConSurf confidence cutoff (1/293 residues). 
+YNL229C, 1G6YB: No consurfDB file (182/182 residues). 
+YNL229C, 1G6YA: Score below ConSurf confidence cutoff (2/181 residues). Consurf file format error (15/181 residues). 
+YGL155W, 3DRAB: Score below ConSurf confidence cutoff (1/301 residues). 
+YKL019W, 3DRAA: Score below ConSurf confidence cutoff (1/271 residues). 
+YDL131W, 3IVTB: No consurfDB file (389/389 residues). 
+YEL021W, 1DQWB: Score below ConSurf confidence cutoff (1/265 residues). 
+YEL021W, 1DQWA: Score below ConSurf confidence cutoff (1/265 residues). 
+YBR006W, 3JZ4C: No consurfDB file (325/325 residues). 
+YEL027W, 6M0RK: Score below ConSurf confidence cutoff (2/159 residues). 
+YDR531W, 6UJ5B: Score below ConSurf confidence cutoff (4/219 residues). 
+YDR531W, 6UJ5A: No consurfDB file (213/213 residues). 
+YDL047W, 4LACC: No consurfDB file (278/278 residues). 
+YGL253W, 3O4WB: No consurfDB file (478/478 residues). 
+YNL030W, 6L9ZP: No consurfDB file (94/94 residues). 
+YGR253C, 4LTCR: No consurfDB file (241/241 residues). 
+YMR314W, 4LTCS: Consurf file format error (2/229 residues). Score below ConSurf confidence cutoff (1/229 residues). 
+YDL166C, 4CW7G: No consurfDB file (163/163 residues). 
+YJL191W, 4CW7H: No consurfDB file (84/84 residues). 
+YBR109C, 4ZLKB: Consurf file format error (120/132 residues). 
+YGL137W, 3MKQC: No consurfDB file (649/649 residues). 
+YDL229W, 6DO2B: No consurfDB file (232/232 residues). 
+YJR045C, 6DO2A: No consurfDB file (367/367 residues). 
+YER094C, 4LTCW: No consurfDB file (200/200 residues). 
+YLR292C, 5L0YD: No consurfDB file (106/106 residues). 
+YLR292C, 5L0YA: No consurfDB file (135/135 residues). 
+YHR135C, 6RCHB: No consurfDB file (179/179 residues). 
+YDR001C, 5N6NC: Score below ConSurf confidence cutoff (1/491 residues). 
+YOR061W, 3OHTA: Score below ConSurf confidence cutoff (2/268 residues). 
+YDR364C, 6UOZB: No consurfDB file (273/273 residues). 
+YDR364C, 6UOZA: No consurfDB file (275/275 residues). 
+YIL074C, 2P9CA: Score below ConSurf confidence cutoff (1/397 residues). 
+YBR011C, 1HUJA: Score below ConSurf confidence cutoff (1/281 residues). 
+YER017C, 2CE7C: No consurfDB file (401/401 residues). 
+YMR089C, 2CE7B: No consurfDB file (400/400 residues). 
+YLR377C, 7NS5B: No consurfDB file (298/298 residues). 
+YLR377C, 7NS5A: No consurfDB file (300/300 residues). 
+YDL134C, 4LACC: No consurfDB file (285/285 residues). 
+YJR058C, 2JKRS: No consurfDB file (138/138 residues). 
+YOL062C, 2JKRM: No consurfDB file (381/381 residues). 
+YKL190W, 3LL8B: Consurf file format error (136/141 residues). 
+YOR151C, 7NKXB: No consurfDB file (666/666 residues). 
+YBR088C, 6E49B: No consurfDB file (255/255 residues). 
+YBL023C, 4R7YA: Score below ConSurf confidence cutoff (1/561 residues). 
+YEL056W, 4PSWB: Score below ConSurf confidence cutoff (1/338 residues). 
+YDR188W, 6KS6Z: No consurfDB file (504/504 residues). 
+YER042W, 3PINB: Score below ConSurf confidence cutoff (3/138 residues). 
+YNL113W, 7AE1K: No consurfDB file (91/91 residues). 
+YOL012C, 1F66G: Consurf file format error (101/101 residues). 
+YKL045W, 4RR2B: Consurf file format error (201/211 residues). 
+YHR208W, 2ABJA: Consurf file format error (5/331 residues). 
+YBR254C, 2J3WC: No consurfDB file (116/116 residues). 
+YJR103W, 7DPWD: No consurfDB file (550/550 residues). 
+YGR209C, 4DSSB: Score below ConSurf confidence cutoff (1/103 residues). 
+YLR109W, 4DSSA: Score below ConSurf confidence cutoff (1/138 residues). 
+YGR090W, 4M5DA: Score below ConSurf confidence cutoff (2/1033 residues). 
+YDR075W, 4LACC: No consurfDB file (217/217 residues). 
+YGR262C, 6WQXC: No consurfDB file (202/202 residues). 
+YGR218W, 3WYFC: Consurf file format error (17/1030 residues). 
+YIL063C, 3WYFB: No consurfDB file (142/142 residues). 
+YJR065C, 2P9IA: No consurfDB file (245/245 residues). 
+YML092C, 4LTCO: No consurfDB file (248/248 residues). 
+YBR143C, 3VMFB: Consurf file format error (9/341 residues). 
+YGL115W, 6C9HC: No consurfDB file (286/286 residues). 
+YPL069C, 2DH4B: No consurfDB file (281/281 residues). 
+YPL069C, 2DH4A: No consurfDB file (281/281 residues). 
+YBR010W, 5GT0E: Consurf file format error (3/99 residues). 
+YAL012W, 1N8PD: Score below ConSurf confidence cutoff (5/390 residues). 
+YAL012W, 1N8PC: No consurfDB file (390/390 residues). 
+YPL003W, 3DBHC: No consurfDB file (201/201 residues). 
+YGR254W, 1ONEB: Consurf file format error (5/436 residues). Score below ConSurf confidence cutoff (2/436 residues). 
+YGR254W, 1ONEA: No consurfDB file (436/436 residues). 
+YPR103W, 4LTCY: No consurfDB file (212/212 residues). 
+YJL125C, 5ERGB: No consurfDB file (288/288 residues). 
+YNL062C, 5ERGA: No consurfDB file (251/251 residues). 
+YJR072C, 1YRBB: Consurf file format error (229/230 residues). 
+YJR072C, 1YRBA: Consurf file format error (229/230 residues). 
+YPR010C, 6RWEB: Score below ConSurf confidence cutoff (2/1152 residues). Consurf file format error (1/1152 residues). 
+YBR242W, 5YOXG: No consurfDB file (164/164 residues). 
+YCR035C, 5JEAC: Score below ConSurf confidence cutoff (1/286 residues). 
+YNR001C, 4CTSB: Score below ConSurf confidence cutoff (1/433 residues). 
+YNR001C, 4CTSA: No consurfDB file (433/433 residues). 
+YJR064W, 6KS6E: No consurfDB file (523/523 residues). 
+YOR212W, 5KDOB: Score below ConSurf confidence cutoff (6/329 residues). 
+YMR318C, 1PIWB: Score below ConSurf confidence cutoff (2/337 residues). 
+YMR318C, 1PIWA: No consurfDB file (337/337 residues). 
+YER023W, 5BSEJ: Score below ConSurf confidence cutoff (1/239 residues). 
+YER023W, 5BSEI: Score below ConSurf confidence cutoff (1/239 residues). 
+YKR097W, 1II2B: Score below ConSurf confidence cutoff (1/505 residues). 
+YKR097W, 1II2A: Score below ConSurf confidence cutoff (1/512 residues). 
+YNL031C, 6O22E: No consurfDB file (75/75 residues). 
+YLR109W, 4DSQB: Score below ConSurf confidence cutoff (2/138 residues). 
+YLR109W, 4DSQA: Score below ConSurf confidence cutoff (2/138 residues). 
+YMR223W, 3MHSA: Score below ConSurf confidence cutoff (58/417 residues). 
+YPL047W, 3MHSC: No consurfDB file (92/92 residues). 
+YCR031C, 4CW7H: No consurfDB file (84/84 residues). 
+YLR270W, 6TRQB: No consurfDB file (284/284 residues). 
+YOR173W, 6TRQA: No consurfDB file (292/292 residues). 
+YPR010C, 7NKXB: No consurfDB file (934/934 residues). 
+YGR195W, 5JEAB: Score below ConSurf confidence cutoff (1/240 residues). 
+YBR041W, 1ULTB: No consurfDB file (253/253 residues). 
+YOR317W, 1ULTA: No consurfDB file (308/308 residues). 
+YGL101W, 5YOXG: No consurfDB file (165/165 residues). 
+YLR028C, 1THZB: No consurfDB file (393/393 residues). 
+YHR111W, 6YUBA: Score below ConSurf confidence cutoff (1/373 residues). 
+YHR111W, 6YUBB: Score below ConSurf confidence cutoff (4/257 residues). 
+YDL188C, 4LACC: No consurfDB file (285/285 residues). 
+YNL246W, 3Q68A: No consurfDB file (156/156 residues). 
+YNL121C, 2GW1A: No consurfDB file (481/481 residues). 
+YJR148W, 2ABJA: Consurf file format error (5/341 residues). 
+YLR293C, 1QBKC: No consurfDB file (184/184 residues). 
+YER148W, 1TBPB: Score below ConSurf confidence cutoff (1/179 residues). 
+YCR052W, 7C4JA: No consurfDB file (284/284 residues). 
+YFL005W, 2G77B: Score below ConSurf confidence cutoff (1/158 residues). 
+YBR234C, 2P9IC: No consurfDB file (296/296 residues). 
+YLR293C, 2BKUA: Score below ConSurf confidence cutoff (3/167 residues). 
+YLR347C, 2BKUB: No consurfDB file (581/581 residues). 
+YKL166C, 4X6RA: No consurfDB file (293/293 residues). 
+YLR027C, 1YAAB: Consurf file format error (2/402 residues). Score below ConSurf confidence cutoff (3/402 residues). 
+YLR027C, 1YAAA: Consurf file format error (2/402 residues). Score below ConSurf confidence cutoff (3/402 residues). 
+YOR340C, 4C3IG: Consurf file format error (190/230 residues). 
+YOR341W, 4C3IA: No consurfDB file (1252/1252 residues). 
+YBR117C, 1GPUB: Score below ConSurf confidence cutoff (6/673 residues). 
+YDL201W, 2VDUF: No consurfDB file (194/194 residues). 
+YKL103C, 5JGFD: No consurfDB file (446/446 residues). 
+YKL103C, 5JGFC: Score below ConSurf confidence cutoff (1/445 residues). 
+YDL160C, 5IVLA: No consurfDB file (353/353 residues). 
+YDR489W, 2Q9QB: No consurfDB file (165/165 residues). 
+YLR293C, 3W3ZB: Consurf file format error (156/166 residues). 
+YDR502C, 4NDNB: No consurfDB file (379/379 residues). 
+YGL058W, 4Y1LB: No consurfDB file (147/147 residues). 
+YGL058W, 4Y1LA: No consurfDB file (147/147 residues). 
+YNL031C, 5Z30E: No consurfDB file (99/99 residues). 
+YCL017C, 6WIHA: No consurfDB file (366/366 residues). 
+YDR353W, 1F6MB: No consurfDB file (304/304 residues). 
+YBR195C, 4XYIA: No consurfDB file (314/314 residues). 
+YPL178W, 3FEYB: No consurfDB file (52/52 residues). 
+YDL154W, 1EWQB: Consurf file format error (276/276 residues). 
+YLR293C, 3M1IA: Score below ConSurf confidence cutoff (3/200 residues). 
+YKL013C, 2P9IF: No consurfDB file (167/167 residues). 
+YFL037W, 4FFBB: No consurfDB file (421/421 residues). 
+YML124C, 4FFBA: No consurfDB file (310/310 residues). 
+YLR293C, 3WYFA: No consurfDB file (189/189 residues). 
+YDR225W, 5F99G: No consurfDB file (113/113 residues). 
+YBR218C, 5VZ0D: Consurf file format error (63/1116 residues). 
+YGL062W, 5VZ0B: No consurfDB file (1116/1116 residues). 
+YHR008C, 4GUND: No consurfDB file (187/187 residues). 
+YHR008C, 4GUNC: No consurfDB file (187/187 residues). 
+YBR009C, 6O22F: No consurfDB file (82/82 residues). 
+YCR072C, 6Y7NA: No consurfDB file (313/313 residues). 
+YGL210W, 2G77B: Score below ConSurf confidence cutoff (1/160 residues). 
+YJR045C, 6DO2B: No consurfDB file (367/367 residues). 
+YNL209W, 6DO2A: No consurfDB file (232/232 residues). 
+YDR378C, 4M75D: No consurfDB file (65/65 residues). 
+YIL074C, 2P9CB: Score below ConSurf confidence cutoff (2/397 residues). 
+YCR028C-A, 6CQKB: No consurfDB file (67/67 residues). 
+YCR028C-A, 6CQKA: No consurfDB file (69/69 residues). 
+YGR104C, 2HZSB: No consurfDB file (179/179 residues). 
+YPR138C, 2NUUB: No consurfDB file (396/396 residues). 
+YOR224C, 6RQLH: Consurf file format error (2/77 residues). 
+YDR298C, 6RD4P: No consurfDB file (173/173 residues). 
+YJR121W, 6RD4Z: No consurfDB file (465/465 residues). 
+YDR404C, 7NKXG: No consurfDB file (171/171 residues). 
+YAL033W, 6W6VE: No consurfDB file (147/147 residues). 
+YDL188C, 3DW8C: No consurfDB file (285/285 residues). 
+YJL034W, 6DO2B: No consurfDB file (260/260 residues). 
+YJL034W, 6DO2A: No consurfDB file (260/260 residues). 
+YMR314W, 6HWES: No consurfDB file (227/227 residues). 
+YOR207C, 7O4JB: No consurfDB file (674/674 residues). 
+YDR224C, 3MGRH: No consurfDB file (98/98 residues). 
+YOL012C, 3MGRG: Consurf file format error (105/105 residues). 
+YKL182W, 6U5UG: Score below ConSurf confidence cutoff (1/1239 residues). 
+YKL125W, 6RQLO: No consurfDB file (442/442 residues). 
+YHR062C, 6W6VJ: No consurfDB file (259/259 residues). 
+YNL288W, 5LSWC: No consurfDB file (271/271 residues). 
+YNL288W, 5LSWA: No consurfDB file (271/271 residues). 
+YJR088C, 6WB92: Score below ConSurf confidence cutoff (1/262 residues). 
+YKL207W, 6WB93: Score below ConSurf confidence cutoff (3/194 residues). 
+YML121W, 3R7WA: Score below ConSurf confidence cutoff (1/260 residues). 
+YML024W, 6ZVIz: No consurfDB file (69/69 residues). 
+YMR116C, 6ZVIR: Score below ConSurf confidence cutoff (3/162 residues). 
+YOR065W, 3CX5O: No consurfDB file (180/180 residues). 
+YDL108W, 7B5QJ: No consurfDB file (246/246 residues). 
+YPR025C, 7B5QI: No consurfDB file (235/235 residues). 
+YFL039C, 5NBLD: No consurfDB file (351/351 residues). 
+YDR161W, 5TQBB: Score below ConSurf confidence cutoff (1/195 residues). 
+YPR010C, 4C2MB: Score below ConSurf confidence cutoff (2/1157 residues). 
+YHR143W-A, 6RUIL: No consurfDB file (45/45 residues). 
+YBR010W, 5Z30E: No consurfDB file (99/99 residues). 
+YML085C, 4FFBA: No consurfDB file (232/232 residues). 
+YPR010C, 4C3IB: No consurfDB file (1149/1149 residues). 
+YOL090W, 2O8BA: No consurfDB file (98/98 residues). 
+YEL024W, 3CX5P: No consurfDB file (184/184 residues). 
+YBR154C, 1TWFE: Consurf file format error (3/214 residues). 
+YML056C, 4Z87B: No consurfDB file (388/388 residues). 
+YER009W, 5BXQB: No consurfDB file (115/115 residues). 
+YLR293C, 5BXQE: Score below ConSurf confidence cutoff (4/200 residues). Consurf file format error (5/200 residues). 
+YBL039C, 7DPWC: No consurfDB file (551/551 residues). 
+YMR022W, 4Y1LB: No consurfDB file (142/142 residues). 
+YMR022W, 4Y1LA: No consurfDB file (142/142 residues). 
+YGR144W, 3FPZB: Score below ConSurf confidence cutoff (1/205 residues). 
+YGR144W, 3FPZA: Score below ConSurf confidence cutoff (1/207 residues). 
+YMR083W, 4W6ZB: No consurfDB file (347/347 residues). 
+YOL086C, 4W6ZA: Score below ConSurf confidence cutoff (2/347 residues). 
+YOR151C, 3S14B: No consurfDB file (664/664 residues). 
+YBR154C, 6RQLE: No consurfDB file (214/214 residues). 
+YOR370C, 3CPHG: No consurfDB file (346/346 residues). 
+YDR460W, 7O4J3: Score below ConSurf confidence cutoff (1/131 residues). 
+YHR062C, 7C79J: No consurfDB file (259/259 residues). 
+YER027C, 2QLVB: Consurf file format error (87/87 residues). 
+YOL086C, 4W6ZB: No consurfDB file (347/347 residues). 
+YDR477W, 4REDB: Consurf file format error (5/314 residues). Score below ConSurf confidence cutoff (6/314 residues). 
+YDR477W, 4REDA: Score below ConSurf confidence cutoff (6/309 residues). 
+YBL003C, 1EQZA: Consurf file format error (15/119 residues). 
+YOR185C, 1I2MA: No consurfDB file (162/162 residues). 
+YGL246C, 3FQDB: Score below ConSurf confidence cutoff (3/241 residues). 
+YNL113W, 6RQLK: No consurfDB file (102/102 residues). 
+YPL091W, 2HQMB: Score below ConSurf confidence cutoff (4/455 residues). 
+YPL091W, 2HQMA: Score below ConSurf confidence cutoff (4/455 residues). 
+YPR180W, 3KYDA: No consurfDB file (272/272 residues). 
+YLR270W, 6TRQA: No consurfDB file (290/290 residues). 
+YLR028C, 1THZA: No consurfDB file (393/393 residues). 
+YDL029W, 7AHNB: No consurfDB file (258/258 residues). 
+YFL039C, 7AHND: Consurf file format error (9/355 residues). 
+YHR074W, 6OFBA: No consurfDB file (685/685 residues). 
+YPL234C, 6M0RD: Score below ConSurf confidence cutoff (2/155 residues). 
+YIR036C, 6UHXB: No consurfDB file (211/211 residues). 
+YIR036C, 6UHXA: Score below ConSurf confidence cutoff (7/211 residues). Consurf file format error (4/211 residues). 
+YPL131W, 3OW2M: No consurfDB file (175/175 residues). 
+YBR061C, 6JPLB: Score below ConSurf confidence cutoff (5/218 residues). 
+YPL183C, 6JPLA: No consurfDB file (711/711 residues). 
+YHR098C, 1M2VB: Score below ConSurf confidence cutoff (3/448 residues). 
+YLR243W, 1YRBA: Consurf file format error (185/187 residues). 

@@ -1,0 +1,153 @@
+ORF_name, PDB_id_used: error_message (number_of_error_messages_1/total_num_res_in_prot) 
+SPBC56F2.07c, 7WUBD: Score below ConSurf confidence cutoff (1/509 residues). 
+SPCC364.06, 2Z2RA: Consurf file format error (2/249 residues). 
+SPBC646.09c, 5A5TE: No consurfDB file (349/349 residues). 
+SPAC29E6.08, 7EGFP: No consurfDB file (176/176 residues). 
+SPCC5E4.03c, 7EGFe: No consurfDB file (477/477 residues). 
+SPBC776.04, 6GNIA: No consurfDB file (709/709 residues). 
+SPAC31G5.13, 5VFRc: No consurfDB file (275/275 residues). 
+SPCC576.10c, 5VFRD: No consurfDB file (370/370 residues). 
+SPBC15D4.14, 7EGFe: No consurfDB file (301/301 residues). 
+SPBC2D10.11c, 2Z2RA: Consurf file format error (3/247 residues). 
+SPBC1289.03c, 1RRPA: Score below ConSurf confidence cutoff (7/180 residues). 
+SPBC4C3.07, 5A5TF: No consurfDB file (214/214 residues). 
+SPAC57A10.03, 3JB9d: Score below ConSurf confidence cutoff (3/136 residues). 
+SPAC29A4.08c, 3JB9V: No consurfDB file (120/120 residues). 
+SPAC29A4.08c, 3JB9U: Consurf file format error (182/305 residues). 
+SPBC17G9.04c, 3F3FH: No consurfDB file (310/310 residues). 
+SPBC17D1.03c, 6D6RC: No consurfDB file (238/238 residues). 
+SPCC306.03c, 7Q2ZC: Consurf file format error (71/71 residues). 
+SPAC4H3.08, 3I3OD: No consurfDB file (165/165 residues). 
+SPAC4H3.08, 3I3OC: Score below ConSurf confidence cutoff (1/165 residues). Consurf file format error (3/165 residues). 
+SPBC14C8.06, 1K8KC: Score below ConSurf confidence cutoff (2/277 residues). 
+SPAC23G3.01, 3H0GB: Score below ConSurf confidence cutoff (1/1055 residues). 
+SPBC215.12, 3JB9B: Score below ConSurf confidence cutoff (1/886 residues). 
+SPBC215.12, 6FF4B: No consurfDB file (884/884 residues). 
+SPBC14F5.09c, 5VKWA: Score below ConSurf confidence cutoff (2/467 residues). 
+SPCC553.02, 6OFBA: No consurfDB file (679/679 residues). 
+SPAC27F1.09c, 6FF4u: Consurf file format error (14/834 residues). 
+SPBC12C2.08, 6DLUP: No consurfDB file (594/594 residues). 
+SPBC12C2.08, 6DLUB: Score below ConSurf confidence cutoff (2/586 residues). 
+SPBC4.04c, 6U0M2: Score below ConSurf confidence cutoff (1/618 residues). 
+SPCC1682.02c, 6U0M3: Score below ConSurf confidence cutoff (8/448 residues). 
+SPBC1604.21c, 5KNLA: No consurfDB file (968/968 residues). 
+SPAC1071.06, 6VZ4M: No consurfDB file (139/139 residues). 
+SPAC1250.01, 6VZ4K: Score below ConSurf confidence cutoff (3/521 residues). 
+SPBC17D1.02, 6Q2EA: No consurfDB file (289/289 residues). 
+SPAC821.12, 4WOTC: Consurf file format error (3/336 residues). Score below ConSurf confidence cutoff (1/336 residues). 
+SPAC821.12, 4WOTA: Score below ConSurf confidence cutoff (1/333 residues). 
+SPAC9.03c, 5GANB: No consurfDB file (1566/1566 residues). 
+SPBC6B1.07, 5GANJ: No consurfDB file (660/660 residues). 
+SPBC32F12.04, 7QJ0Z: No consurfDB file (418/418 residues). 
+SPBC428.20c, 7QJ0H: No consurfDB file (541/541 residues). 
+SPAC22A12.12c, 5G06G: No consurfDB file (148/148 residues). 
+SPBC26H8.10, 5G06J: Score below ConSurf confidence cutoff (3/911 residues). 
+SPAC17G6.12, 7B5LC: No consurfDB file (675/675 residues). 
+SPBC409.05, 7B5LS: No consurfDB file (134/134 residues). 
+SPAC23C4.12, 6RCHB: No consurfDB file (291/291 residues). 
+SPBC3H7.15, 6RCHA: No consurfDB file (291/291 residues). 
+SPAC16E8.11c, 6O9M1: No consurfDB file (197/197 residues). 
+SPBC13G1.13, 6O9M2: No consurfDB file (224/224 residues). 
+SPBC32F12.06, 4OR5B: No consurfDB file (223/223 residues). 
+SPBC32H8.10, 4OR5A: Score below ConSurf confidence cutoff (4/295 residues). 
+SPAC11H11.06, 4JD2B: No consurfDB file (309/309 residues). 
+SPAC630.03, 4JD2A: No consurfDB file (370/370 residues). 
+SPBC31F10.11c, 6FF4O: No consurfDB file (162/162 residues). 
+SPAC17G6.14c, 1T6NB: Score below ConSurf confidence cutoff (1/207 residues). 
+SPAC17G6.14c, 1T6NA: Score below ConSurf confidence cutoff (1/207 residues). 
+SPCC31H12.07, 6GNIA: No consurfDB file (719/719 residues). 
+SPAC17A5.06, 6NMIA: Score below ConSurf confidence cutoff (2/543 residues). 
+SPBC13G1.13, 6NMID: Consurf file format error (21/224 residues). 
+SPCC188.02, 2NYMB: Consurf file format error (336/353 residues). 
+SPAC27E2.05, 7KC0B: Score below ConSurf confidence cutoff (2/358 residues). 
+SPACUNK4.06c, 3H0GG: No consurfDB file (170/170 residues). 
+SPAC12G12.14c, 6UOZB: No consurfDB file (165/165 residues). 
+SPAC824.04, 6UOZA: No consurfDB file (120/120 residues). 
+SPBC19C2.14, 3JB9D: No consurfDB file (91/91 residues). 
+SPBC4.07c, 5VHFB: Score below ConSurf confidence cutoff (9/328 residues). 
+SPBP19A11.03c, 5VHFf: No consurfDB file (600/600 residues). 
+SPBC9B6.05c, 4EMGG: Score below ConSurf confidence cutoff (1/63 residues). 
+SPBC9B6.05c, 4EMGF: Score below ConSurf confidence cutoff (1/63 residues). 
+SPAC926.04c, 6XLHB: No consurfDB file (600/600 residues). 
+SPBC1711.08, 6XLHC: Consurf file format error (146/224 residues). 
+SPAC13F5.02c, 7EG9G: No consurfDB file (135/135 residues). 
+SPBP22H7.07, 6FF4D: No consurfDB file (314/314 residues). 
+SPBC1289.03c, 1I2MA: No consurfDB file (145/145 residues). 
+SPAC1250.01, 7VDVA: No consurfDB file (683/683 residues). 
+SPCC61.03, 2R3BA: No consurfDB file (185/185 residues). 
+SPBC31F10.09c, 7NVRk: No consurfDB file (107/107 residues). 
+SPCC1020.04c, 7NVRF: No consurfDB file (76/76 residues). 
+SPBC21B10.05c, 6ZWOD: Score below ConSurf confidence cutoff (4/194 residues). 
+SPBC11B10.09, 7B5RL: No consurfDB file (264/264 residues). 
+SPBC12C2.06, 3FHOA: No consurfDB file (293/293 residues). 
+SPBC25D12.03c, 6U0M7: Score below ConSurf confidence cutoff (9/618 residues). 
+SPAC821.08c, 6TLJR: No consurfDB file (303/303 residues). 
+SPCC188.11, 6FF4C: No consurfDB file (245/245 residues). 
+SPAC1420.03, 5T0GW: No consurfDB file (420/420 residues). 
+SPAC9G1.11c, 6UPRA: No consurfDB file (257/257 residues). 
+SPAC1565.08, 7R7SF: No consurfDB file (724/724 residues). 
+SPBC16A3.15c, 5MJSH: No consurfDB file (393/393 residues). 
+SPBC26H8.07c, 5MJSC: No consurfDB file (384/384 residues). 
+SPBC32H8.12c, 5JLHE: No consurfDB file (370/370 residues). 
+SPBC32H8.12c, 5JLHD: Score below ConSurf confidence cutoff (2/370 residues). 
+SPBC25D12.03c, 5BK4F: No consurfDB file (624/624 residues). 
+SPBC25D12.03c, 5BK47: No consurfDB file (624/624 residues). 
+SPAC57A10.05c, 6WNXA: No consurfDB file (353/353 residues). 
+SPBC409.05, 6WNXB: No consurfDB file (138/138 residues). 
+SPAC4D7.03, 3V7DB: Consurf file format error (398/398 residues). 
+SPBC20F10.09, 6PPVE: No consurfDB file (40/40 residues). 
+SPCC550.02c, 6FF4P: No consurfDB file (237/237 residues). 
+SPBC26H8.10, 6D6RK: No consurfDB file (811/811 residues). 
+SPAC3G9.10c, 5G06B: No consurfDB file (184/184 residues). 
+SPAC23A1.14c, 7MCPA: No consurfDB file (323/323 residues). 
+SPAC6F12.13c, 6B04B: No consurfDB file (334/334 residues). 
+SPBC36.06c, 6B04A: Score below ConSurf confidence cutoff (1/330 residues). 
+SPCC1682.07, 6O9M6: Consurf file format error (42/254 residues). 
+SPBC16H5.07c, 3DW8C: No consurfDB file (277/277 residues). 
+SPBC409.13, 1KYYE: No consurfDB file (130/130 residues). 
+SPBC409.13, 1KYYC: No consurfDB file (128/128 residues). 
+SPBC14F5.05c, 4NDND: No consurfDB file (258/258 residues). 
+SPBC14F5.05c, 4NDNB: No consurfDB file (258/258 residues). 
+SPBC6B1.10, 6FF4E: No consurfDB file (39/39 residues). 
+SPBC20F10.06, 4AEZB: Consurf file format error (177/180 residues). 
+SPBC3E7.14, 3JB9n: No consurfDB file (72/72 residues). 
+SPCC1442.10c, 7NVRC: No consurfDB file (154/154 residues). 
+SPAC6F12.15c, 6TLJK: No consurfDB file (315/315 residues). 
+SPAPJ698.03c, 6FF4v: No consurfDB file (1087/1087 residues). 
+SPCC757.08, 5G06A: No consurfDB file (256/256 residues). 
+SPAC17G6.12, 6TTUC: No consurfDB file (679/679 residues). 
+SPAC4F10.11, 6UPRA: No consurfDB file (249/249 residues). 
+SPAC630.03, 5JLHE: No consurfDB file (340/340 residues). 
+SPAC823.15, 2NPPF: Consurf file format error (15/292 residues). 
+SPAP8A3.09c, 2NPPD: No consurfDB file (559/559 residues). 
+SPCC285.12, 3SWNF: No consurfDB file (55/55 residues). 
+SPCC285.12, 3SWNC: No consurfDB file (52/52 residues). 
+SPBC30D10.05c, 6UHXB: No consurfDB file (184/184 residues). 
+SPAC24B11.06c, 3GCUB: No consurfDB file (316/316 residues). 
+SPAC24B11.06c, 3GCUA: No consurfDB file (317/317 residues). 
+SPCC5E4.03c, 7EG9e: No consurfDB file (477/477 residues). 
+SPAC3A12.11c, 3JB9Y: Score below ConSurf confidence cutoff (1/208 residues). 
+SPBC15D4.14, 7EG9e: No consurfDB file (301/301 residues). 
+SPBP16F5.02, 6XD3I: No consurfDB file (152/152 residues). 
+SPBC17A3.07, 2HQMB: Score below ConSurf confidence cutoff (5/421 residues). 
+SPBC17A3.07, 2HQMA: Score below ConSurf confidence cutoff (5/421 residues). 
+SPBC1198.13c, 5IYDT: No consurfDB file (168/168 residues). 
+SPCC1442.10c, 5IYDC: No consurfDB file (158/158 residues). 
+SPBC119.13c, 5GAPF: No consurfDB file (301/301 residues). 
+SPBC6B1.07, 5GAPJ: No consurfDB file (660/660 residues). 
+SPAC1D4.13, 8A8MB: No consurfDB file (241/241 residues). 
+SPAC31G5.09c, 8A8MA: No consurfDB file (279/279 residues). 
+SPAC31G5.13, 5L4KV: Consurf file format error (3/286 residues). 
+SPBP19A11.03c, 5L4KZ: No consurfDB file (712/712 residues). 
+SPBC16H5.07c, 2NPPF: Consurf file format error (15/292 residues). 
+SPBC146.03c, 7Q2YB: No consurfDB file (208/208 residues). 
+SPBC16C6.07c, 5MP9H: No consurfDB file (362/362 residues). 
+SPAC806.06c, 1KQNF: No consurfDB file (200/200 residues). 
+SPAC806.06c, 1KQNE: No consurfDB file (201/201 residues). 
+SPAC17H9.02, 7S7BE: No consurfDB file (878/878 residues). 
+SPAC6F12.16c, 7S7BA: No consurfDB file (891/891 residues). 
+SPBC115.01c, 5G06D: No consurfDB file (158/158 residues). 
+SPAC23C4.12, 6RCHA: No consurfDB file (291/291 residues). 
+SPBC11B10.09, 3BHTA: No consurfDB file (276/276 residues). 
+SPAC2C4.03c, 3JB9G: No consurfDB file (90/90 residues). 
+SPBC725.13c, 6U0MB: Score below ConSurf confidence cutoff (1/176 residues). 
